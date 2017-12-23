@@ -2,6 +2,6 @@ import React from 'react';
 import Header from './common/Header';
 
 const App = () => (
-  <Header />
+  <Header headerText={'Albums'}/>
 );
 export default App;
